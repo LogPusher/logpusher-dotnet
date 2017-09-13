@@ -13,12 +13,20 @@ LogPusher is easy to use on the client side thanks to its simple interface. Just
 
 ## Features
 
-* Send log data
+* Send log/push message data
+* Get Logged Data 
+* Save Search Key ( for e-commerce packages )
+* Save Order Data ( for e-commerce packages )
+* Get Total Commission Data ( for e-commerce packages)
+* Send Weather Data ( for IoT packages ) 
+
 
 ## Getting started
 
 1. [Create a LogPusher account](http://logpusher.com/)
 2. Create a new App and get API Token
+
+
 
 ## Installation
 
@@ -33,6 +41,10 @@ LogPusher is easy to use on the client side thanks to its simple interface. Just
 
 * [Search open and closed issues](https://github.com/logpusher/logpusher-dotnet/issues?utf8=✓&q=is%3Aissue) for similar problems
 * [Report a bug or request a feature](https://github.com/logpusher/logpusher-dotnet/issues/new)
+
+## Vendors & Sponsors
+
+* [TurtaIotHAT] (http://www.turta.io) IoT test device vendor 
 
 
 ## Contributing
